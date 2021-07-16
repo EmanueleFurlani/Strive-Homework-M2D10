@@ -1,0 +1,47 @@
+
+body {
+    background: #d8d8d8;
+}
+
+.section {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.list-element {
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #ccc;
+    padding: 8px 0;
+}
+
+.list-element p {
+   
+color: #404040;
+font-weight: 700;
+line-height: 12px;
+}
+
+
+.list-element-left {
+    align-items: center;
+}
+
+.list-element img {
+    width: 136px;
+    height: 76px;
+    margin-right: 10px;
+}
+
+.card--mod {
+    width: 15rem
+}
+.card---mod {
+    width: 22rem
+}
+.border2 {
+    border-bottom: 1px solid rgb(138, 134, 134);!important
+}
+.img-fix {
+    height: 150px;
+    object-fit: cover;
+}
